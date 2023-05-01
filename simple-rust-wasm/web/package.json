@@ -1,5 +1,5 @@
 {
-  "name": "snake_game_web",
+  "name": "simple-rust-wasm-web",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
