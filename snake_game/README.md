@@ -16,3 +16,4 @@ Run `npm run build` to build the project.
 Run `npm run dev` to start the project.
 
 
+Deployed at https://dhananjay12.github.io/learn-wasm-rust/
